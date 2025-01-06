@@ -57,7 +57,15 @@ This platform empowers users with state-of-the-art audience analytics and foreca
     -   Explore platform-specific performance through bar charts and heatmaps.
 5.  **Model Performance Analysis**
 
+🖥️ Screenshots
+---------------
 
+### **Dashboard Overview**
+![Dashboard Overview](./screenshots/dashboard-overview.png)
+### **Platform Insights**
+![Platform Insights](./screenshots/platform-insights.png) 
+### **Model Performance Analysis**
+![Model Performance Analysis](./screenshots/model-performance.png)
 
 🤝 Contributions
 ----------------

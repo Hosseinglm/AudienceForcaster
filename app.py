@@ -218,11 +218,20 @@ else:
     st.info("""
         👋 Welcome to the Advanced Audience Analytics Platform!
 
-        This platform provides comprehensive audience analytics and forecasting capabilities:
-        - Multi-platform audience analysis
-        - Advanced time series forecasting
-        - Engagement metrics visualization
-        - Model performance comparison
+        This platform offers powerful tools for understanding and forecasting audience behavior across various channels.
+        With its user-friendly interface and advanced analytics capabilities, you can:
+        - Multi-Platform Audience Analysis: 
+            Gain insights into your audience's behavior across websites, mobile apps, social media, and more.
+        - Advanced Time Series Forecasting: 
+            Leverage state-of-the-art models like ARIMA, and Prophet to forecast audience trends.
+        - Engagement Metrics Visualization:
+            Explore interactive visualizations to understand key metrics such as engagement rates and conversion rates.
+        - Model Performance Comparison:
+            Compare forecasting models to choose the best-performing one for your needs.
+            
+        How to Get Started
+            Use the sidebar to upload your audience data in CSV format.
+            Explore the analytics dashboard to view audience trends and metrics.
+            Use the forecasting tools to predict future audience engagement.
 
-        To begin, please upload your audience data CSV file using the sidebar.
     """)

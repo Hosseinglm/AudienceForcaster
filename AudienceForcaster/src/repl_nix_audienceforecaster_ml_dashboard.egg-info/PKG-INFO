@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: repl-nix-audienceforecaster-ml-dashboard
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Requires-Dist: numpy>=2.2.0
+Requires-Dist: pandas>=2.2.3
+Requires-Dist: plotly>=5.24.1
+Requires-Dist: prophet>=1.1.6
+Requires-Dist: scikit-learn>=1.6.0
+Requires-Dist: statsmodels>=0.14.4
+Requires-Dist: streamlit>=1.41.1
